@@ -26,6 +26,13 @@ I work mainly with the MERN stack and I'm always hunting for new tools to improv
 ---
 ## 🌐 Connect with Me
 
+<!-- LinkedIn -->
+<p>
+ <a href="https://www.linkedin.com/in/rhratul/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
 <p align="left">
   <!-- Email -->
 <a href="" target="_blank">
@@ -37,6 +44,7 @@ I work mainly with the MERN stack and I'm always hunting for new tools to improv
 <a href="https://www.facebook.com/share/1AHcyVJCrE/" target="_blank">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+
 
 ---
 
